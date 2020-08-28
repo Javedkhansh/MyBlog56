@@ -1,0 +1,13 @@
+/* custom css file */
+
+
+h1{
+    color:red;
+    font-size: 45px;
+    border-radius: 10px;
+}
+p{
+    width: 600px;
+    height: 200px;
+    background-color: aliceblue;
+}

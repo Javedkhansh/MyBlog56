@@ -1,0 +1,2 @@
+@section('meta_title') Blog About Web Development, PHP and Laravel @endsection
+@section('meta_description') Blog About Web Development, PHP and Laravel. Upgrade your skill with our latest courses @endsection
